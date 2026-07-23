@@ -1,0 +1,6 @@
+{
+  "appId": "com.claire.budgetenvelopes",
+  "appName": "Envelope Budget",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
